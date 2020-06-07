@@ -7,8 +7,8 @@
 </template>
 
 <script>
-    import PageHeader from "../components/layout/PageHeader.vue";
-    import PageFooter from "../components/layout/PageFooter.vue";
+    import PageHeader from "./PageHeader.vue";
+    import PageFooter from "./PageFooter.vue";
 
     export default {
         name: "PageLayout",
